@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 660" fill="none">
+  <circle cx="248.788" cy="634.5" r="4" fill="#FFE666" />
+  <g filter="url(#filter0_f_126_54)">
+    <circle cx="248.788" cy="634.5" r="4" fill="#FFE666" />
+  </g>
+  <g filter="url(#filter1_f_126_54)">
+    <circle cx="248.788" cy="634.5" r="4" fill="#FFE666" />
+  </g>
+  <g filter="url(#filter2_f_126_54)">
+    <circle cx="248.788" cy="634.5" r="4" fill="#FFE666" />
+  </g>
+  <g filter="url(#filter3_f_126_54)">
+    <path d="M248.788 603.5V595.579C248.788 566.967 258.068 539.127 275.235 516.237L301.937 480.635C318.713 458.267 319.965 427.872 305.085 404.2V404.2C283.266 369.487 235.939 362.377 202.2 385.674C193.177 391.905 184.123 397.763 175.788 402.5"
+          stroke="#FFE666"
+          stroke-width="8"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-dasharray="0 10" />
+  </g>
+  <path d="M248.788 603.5V595.579C248.788 566.967 258.068 539.127 275.235 516.237L301.937 480.635C318.713 458.267 319.965 427.872 305.085 404.2V404.2C283.266 369.487 235.939 362.377 202.2 385.674C193.177 391.905 184.123 397.763 175.788 402.5"
+        stroke="#FFE666"
+        stroke-width="4"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-dasharray="0 10" />
+  <path d="M175.787 402.5C175.787 402.5 111.787 441.5 78.7876 414.5C39.3549 382.237 46.7881 351.5 70.7874 313.5C115.97 241.959 169.173 197.5 253.787 197.5C352 197.5 314 294.946 404.788 290C439.39 288.115 459.746 261.738 471.688 229.812C496.62 163.16 440.741 99.8376 371.628 82.8853L298.348 64.911C269.836 57.9177 249.787 32.3568 249.787 3V3"
+        stroke="white"
+        stroke-opacity="0.3"
+        stroke-width="4"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-dasharray="0 10" />
+  <defs>
+    <filter id="filter0_f_126_54"
+            x="224.788"
+            y="610.5"
+            width="48"
+            height="48"
+            filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+      <feGaussianBlur stdDeviation="10" result="effect1_foregroundBlur_126_54" />
+    </filter>
+    <filter id="filter1_f_126_54"
+            x="224.788"
+            y="610.5"
+            width="48"
+            height="48"
+            filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+      <feGaussianBlur stdDeviation="10" result="effect1_foregroundBlur_126_54" />
+    </filter>
+    <filter id="filter2_f_126_54"
+            x="224.788"
+            y="610.5"
+            width="48"
+            height="48"
+            filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+      <feGaussianBlur stdDeviation="10" result="effect1_foregroundBlur_126_54" />
+    </filter>
+    <filter id="filter3_f_126_54"
+            x="151.787"
+            y="348.192"
+            width="187.606"
+            height="279.308"
+            filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+      <feGaussianBlur stdDeviation="10" result="effect1_foregroundBlur_126_54" />
+    </filter>
+  </defs>
+</svg>
