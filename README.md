@@ -103,6 +103,7 @@
 ![Vitest](https://img.shields.io/badge/-Vitest-fcc72b?style=for-the-badge&logo=vitest)
 ![ESlint](https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=ffffff)
+![xojs](https://img.shields.io/badge/-XO-5ed9c7?style=for-the-badge&logo=xo&logoColor=000000)
 ![Monorepo](https://img.shields.io/badge/-Monorepo-f69220?style=for-the-badge&logo=pnpm&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
