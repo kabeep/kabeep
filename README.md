@@ -147,6 +147,12 @@
 </dl>
 <!-- endregion -->
 
+<details>
+
+<summary>
+  <b>Activity</b>
+</summary>
+
 <!-- region Article -->
 <h2 id="article">
 <a href="#article">
@@ -217,7 +223,10 @@
 [![Repository Card :: yeareport](https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=yeareport&show_owner=true&hide_border=true&theme=dracula)](https://github.com/kabeep/yeareport)
 [![Repository Card :: process-source-tracer](https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=process-source-tracer&show_owner=true&hide_border=true&theme=dracula)](https://github.com/kabeep/process-source-tracer)
 <!-- endregion -->
+  
+</details>
 
+<!-- Footer -->
 <a href="#">
   <img width="100%" alt="Crust" src="images/footer-separator.svg">
 </a>
