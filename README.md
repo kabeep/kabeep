@@ -147,10 +147,15 @@
 </dl>
 <!-- endregion -->
 
+
+<a href="#introduce">
+  <img width="30" align="left" alt="Dot" src="https://media.giphy.com/media/dafr2owPsE8RJy8jpo/giphy.gif">
+</a>
+
 <details>
 
 <summary>
-  <b>Activity</b>
+  <b><em>Activity</em></b>
 </summary>
 
 <!-- region Article -->
@@ -225,6 +230,7 @@
 <!-- endregion -->
   
 </details>
+<small>&emsp;&nbsp;(Expand to view details)</small>
 
 <!-- Footer -->
 <a href="#">
