@@ -71,7 +71,7 @@
       </tr>
     </table>
   </details>
-  <small>&emsp;&nbsp;(Expand to view details)</small>
+  <small>&emsp;&nbsp;(Expand to show details)</small>
 </div>
 <!-- endregion -->
 <!-- region Activity -->
@@ -119,7 +119,7 @@
     <a href="https://github.com/kabeep/git-short-dir-prompt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=git-short-dir-prompt&show_owner=true&hide_border=true&theme=dracula" alt="git-short-dir-prompt"></a>
     <!-- endregion -->
   </details>
-  <small>&emsp;&nbsp;(Expand to view details)</small>
+  <small>&emsp;&nbsp;(Expand to show details)</small>
 </div>
 <!-- endregion -->
 <!-- Footer -->
