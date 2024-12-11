@@ -107,16 +107,23 @@
     <a href="https://github.com/kabeep/node-translate-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-translate-cli&show_owner=true&hide_border=true&theme=dracula" alt="node-translate-cli"></a>
     <a href="https://github.com/kabeep/node-translate-i18n"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-translate-i18n&show_owner=true&hide_border=true&theme=dracula" alt="node-translate-i18n"></a>
     <br />
+    <a href="https://github.com/kabeep/forex-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=forex-cli&show_owner=true&hide_border=true&theme=dracula" alt="forex-cli"></a>
     <a href="https://github.com/kabeep/lunar-birthday-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=lunar-birthday-cli&show_owner=true&hide_border=true&theme=dracula" alt="lunar-birthday-cli"></a>
-    <a href="https://github.com/kabeep/yeareport"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=yeareport&show_owner=true&hide_border=true&theme=dracula" alt="yeareport"></a>
     <br />
+    <a href="https://github.com/kabeep/yeareport"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=yeareport&show_owner=true&hide_border=true&theme=dracula" alt="yeareport"></a>
     <a href="https://github.com/kabeep/node-paddle-ocr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-paddle-ocr&show_owner=true&hide_border=true&theme=dracula" alt="node-paddle-ocr"></a>
     <h3>Utility</h3>
+    <a href="https://github.com/kabeep/exception"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=exception&show_owner=true&hide_border=true&theme=dracula" alt="exception"></a>
+    <a href="https://github.com/kabeep/node-translate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-translate&show_owner=true&hide_border=true&theme=dracula" alt="node-translate"></a>
+    <br />
+    <a href="https://github.com/kabeep/lunar-date-fns"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=lunar-date-fns&show_owner=true&hide_border=true&theme=dracula" alt="lunar-date-fns"></a>
+    <a href="https://github.com/kabeep/zodiac-animals"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=zodiac-animals&show_owner=true&hide_border=true&theme=dracula" alt="zodiac-animals"></a>
+    <br />
     <a href="https://github.com/kabeep/node-steam-library"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-steam-library&show_owner=true&hide_border=true&theme=dracula" alt="node-steam-library"></a>
     <a href="https://github.com/kabeep/node-clipboard-image"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-clipboard-image&show_owner=true&hide_border=true&theme=dracula" alt="node-clipboard-image"></a>
     <h3>Misc</h3>
-    <a href="https://github.com/kabeep/process-source-tracer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=process-source-tracer&show_owner=true&hide_border=true&theme=dracula" alt="process-source-tracer"></a>
     <a href="https://github.com/kabeep/git-short-dir-prompt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=git-short-dir-prompt&show_owner=true&hide_border=true&theme=dracula" alt="git-short-dir-prompt"></a>
+    <a href="https://github.com/kabeep/process-source-tracer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=process-source-tracer&show_owner=true&hide_border=true&theme=dracula" alt="process-source-tracer"></a>
     <!-- endregion -->
   </details>
   <small>&emsp;&nbsp;(Expand to show details)</small>
