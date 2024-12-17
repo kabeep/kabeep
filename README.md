@@ -20,7 +20,7 @@
   <dd>&emsp;<b>C</b>reate, <b>C</b>ode and <b>C</b>offee.</dd>
   <a href="#introduce"><img width="30" align="left" alt="Dot" src="https://media.giphy.com/media/jH9W6jy1I8kizcTz42/giphy.gif"></a>
   <dt>&emsp;Purpose</dt>
-  <dd>&emsp;<b>K</b>eep <b>I</b>t <b>S</b>imple <b>S</b>tupid.</dd>
+  <dd>&emsp;<b>K</b>eep <b>I</b>t <b>S</b>imple, <b>S</b>tupid.</dd>
 </dl>
 <!-- endregion -->
 <!-- region Tech Stack -->
