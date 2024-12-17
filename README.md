@@ -111,6 +111,8 @@
     <a href="https://github.com/kabeep/lunar-birthday-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=lunar-birthday-cli&show_owner=true&hide_border=true&theme=dracula" alt="lunar-birthday-cli"></a>
     <br />
     <a href="https://github.com/kabeep/yeareport"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=yeareport&show_owner=true&hide_border=true&theme=dracula" alt="yeareport"></a>
+    <a href="https://github.com/gengark/netease-cloud-music-download"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gengark&repo=netease-cloud-music-download&show_owner=true&hide_border=true&theme=dracula" alt="netease-cloud-music-download"></a>
+    <br />
     <a href="https://github.com/kabeep/node-paddle-ocr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-paddle-ocr&show_owner=true&hide_border=true&theme=dracula" alt="node-paddle-ocr"></a>
     <h3>Utility</h3>
     <a href="https://github.com/kabeep/exception"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=exception&show_owner=true&hide_border=true&theme=dracula" alt="exception"></a>
