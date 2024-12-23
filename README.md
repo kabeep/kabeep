@@ -27,7 +27,11 @@
 <div id="tech-stack">
   <a href="#tech-stack"><img width="30" align="left" alt="Dot" src="https://media.giphy.com/media/LrFh3BUJhh7xEzl3TB/giphy.gif"></a>
   <details>
-    <summary><b><em>Tech Stack</em></b></summary>
+    <summary>
+      <b><em>Tech Stack</em></b>
+      <br />
+      <sub>&emsp;&nbsp;(Expand to View Details)</sub>
+    </summary>
     <table>
       <tr>
         <th>Languages</th>
@@ -71,14 +75,17 @@
       </tr>
     </table>
   </details>
-  <small>&emsp;&nbsp;(Expand to show details)</small>
 </div>
 <!-- endregion -->
 <!-- region Activity -->
 <div id="activity">
   <a href="#activity"><img width="30" align="left" alt="Dot" src="https://media.giphy.com/media/dafr2owPsE8RJy8jpo/giphy.gif"></a>
   <details>
-    <summary><b><em>Activity</em></b></summary>
+    <summary>
+      <b><em>Activity</em></b>
+      <br />
+      <sub>&emsp;&nbsp;(Expand to View Details)</sub>
+    </summary>
     <h2 id="article">Currently working on</h2>
     <!-- Article A -->
     <a href="https://github.com/kabeep/node-translate-cli">
@@ -128,7 +135,6 @@
     <a href="https://github.com/kabeep/process-source-tracer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=process-source-tracer&show_owner=true&hide_border=true&theme=dracula" alt="process-source-tracer"></a>
     <!-- endregion -->
   </details>
-  <small>&emsp;&nbsp;(Expand to show details)</small>
 </div>
 <!-- endregion -->
 <!-- Footer -->
