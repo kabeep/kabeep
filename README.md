@@ -68,7 +68,7 @@
     <br />
     <!-- region Repository -->
     <h2 id="repository">
-      <a href="#repository"><img width="384" alt="Something else that's ease to use" src="images/second-heading.png"></a>
+      <a href="#repository"><img width="384" alt="Something else that's ease to use" src="https://github.com/user-attachments/assets/a087e881-388e-4239-9b3c-fa8b600ed6d7"></a>
     </h2>
     <h3>CLI</h3>
     <a href="https://github.com/kabeep/node-translate-cli"><img alt="Repository Card (kabeep/node-translate-cli)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-translate-cli&show_owner=true&hide_border=true&theme=dracula"></a>
