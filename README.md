@@ -19,8 +19,8 @@
   <dt>&emsp;Interests</dt>
   <dd>&emsp;<b>C</b>reate, <b>C</b>ode and <b>C</b>offee.</dd>
   <a href="#introduce"><img width="30" align="left" alt="Dot" src="https://media.giphy.com/media/jH9W6jy1I8kizcTz42/giphy.gif"></a>
-  <dt>&emsp;Principle</dt>
-  <dd>&emsp;<b>K</b>eep <b>I</b>t <b>S</b>imple, <b>S</b>tupid.</dd>
+  <dt>&emsp;Vision</dt>
+  <dd>&emsp;Open Source My Solutions.</dd>
 </dl>
 <!-- endregion -->
 <!-- region Tech Stack -->
