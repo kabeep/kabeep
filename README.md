@@ -49,7 +49,7 @@
     <summary id="article">
       <b><em>Activity</em></b>
       <br />
-      <sub>&emsp;&nbsp;Current Work On</sub>
+      <span>&emsp;&nbsp;Current Work On</span>
     </summary>
     <!-- Article A -->
     <a href="https://github.com/kabeep/node-translate-cli">
@@ -103,7 +103,7 @@
     <summary>
       <b><em>Repos</em></b>
       <br />
-      <sub>&emsp;&nbsp;Something Else That's <b>Ease</b> to Use</sub>
+      <span>&emsp;&nbsp;Something Else That's <b>Ease</b> to Use</span>
     </summary>
     <h3>Command Line</h3>
     <a href="https://github.com/kabeep/node-translate-cli">
