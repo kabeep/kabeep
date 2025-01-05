@@ -38,7 +38,12 @@
       <sub>&emsp;&nbsp;(Expand to View Details)</sub>
     </summary>
     <br />
-    <a href="https://github.com/tandpfun/skill-icons#icons-list"><img alt="html,css,js,ts,rust,sass,less,bash,py,regex,md,svg,react,redux,vue,pinia,svelte,nodejs,nestjs,express,graphql,postgres,bootstrap,materialui,tailwind,emotion,styledcomponents,next,nuxt,wasm,electron,webpack,vite,rollup,babel,gulp,vitest,cypress,jest,sentry,selenium,git,yarn,pnpm,npm,bun,deno,docker,github,nginx,jenkins,vercel,idea,webstorm,vscode,sublime,vim,windows,apple,linux" src="https://skillicons.dev/icons?i=html,css,js,ts,rust,sass,less,bash,py,regex,md,svg,react,redux,vue,pinia,svelte,nodejs,nestjs,express,graphql,postgres,bootstrap,materialui,tailwind,emotion,styledcomponents,next,nuxt,wasm,electron,webpack,vite,rollup,babel,gulp,vitest,cypress,jest,sentry,selenium,git,yarn,pnpm,npm,bun,deno,docker,github,nginx,jenkins,vercel,idea,webstorm,vscode,sublime,vim,windows,apple,linux" /></a>
+    <a href="https://github.com/tandpfun/skill-icons#icons-list">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,rust,sass,less,bash,py,regex,md,svg,react,redux,vue,pinia,svelte,nodejs,nestjs,express,graphql,postgres,bootstrap,materialui,tailwind,emotion,styledcomponents,next,nuxt,wasm,electron,webpack,vite,rollup,babel,gulp,vitest,cypress,jest,sentry,selenium,git,yarn,pnpm,npm,bun,deno,docker,github,nginx,jenkins,vercel,idea,webstorm,vscode,sublime,vim,windows,apple,linux" />
+        <img alt="html,css,js,ts,rust,sass,less,bash,py,regex,md,svg,react,redux,vue,pinia,svelte,nodejs,nestjs,express,graphql,postgres,bootstrap,materialui,tailwind,emotion,styledcomponents,next,nuxt,wasm,electron,webpack,vite,rollup,babel,gulp,vitest,cypress,jest,sentry,selenium,git,yarn,pnpm,npm,bun,deno,docker,github,nginx,jenkins,vercel,idea,webstorm,vscode,sublime,vim,windows,apple,linux" src="https://skillicons.dev/icons?i=html,css,js,ts,rust,sass,less,bash,py,regex,md,svg,react,redux,vue,pinia,svelte,nodejs,nestjs,express,graphql,postgres,bootstrap,materialui,tailwind,emotion,styledcomponents,next,nuxt,wasm,electron,webpack,vite,rollup,babel,gulp,vitest,cypress,jest,sentry,selenium,git,yarn,pnpm,npm,bun,deno,docker,github,nginx,jenkins,vercel,idea,webstorm,vscode,sublime,vim,windows,apple,linux&theme=light" />
+      </picture>
+    </a>
   </details>
 </div>
 <!-- endregion -->
