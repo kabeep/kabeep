@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg viewBox="0 0 690 215" fill="none" xmlns="http://www.w3.org/2000/svg">
   <path d="M27.505 1.5C34.5051 36 -44.1897 158.668 43.9999 165.5C185.996 176.5 182.653 12.0746 313.5 52C376.735 71.2949 388.598 125.064 452.505 142C524.364 161.043 579.263 56.5916 638.505 101.5C676.551 130.341 687.505 213.5 687.505 213.5"
-        stroke="#FFFFFF"
+        stroke="#d3d3d3"
         stroke-width="3px"
         stroke-linecap="round"
         stroke-dasharray="10 25"
