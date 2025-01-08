@@ -111,7 +111,7 @@
     <summary>
       <b><em>Repos</em></b>
       <br />
-      <span>&emsp;&nbsp;Something Else That's <b>Ease</b> to Use.</span>
+      <span>&emsp;&nbsp;Something Else That's <b>Ease to Use</b>.</span>
     </summary>
     <h3>Command Line</h3>
     <a href="https://github.com/kabeep/node-translate-cli">
