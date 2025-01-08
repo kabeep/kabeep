@@ -153,6 +153,12 @@
       </picture>
     </a>
     <br />
+    <a href="https://github.com/kabeep/neoconfig">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=neoconfig&title_color=4493f8&icon_color=9198a1&text_color=9198a1&border_color=3d444d&bg_color=0d1117" />
+        <img alt="Repository Card (kabeep/neoconfig)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=neoconfig&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
+      </picture>
+    </a>
     <a href="https://github.com/kabeep/node-paddle-ocr">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-paddle-ocr&title_color=4493f8&icon_color=9198a1&text_color=9198a1&border_color=3d444d&bg_color=0d1117" />
