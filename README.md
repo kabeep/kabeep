@@ -223,11 +223,26 @@
 <!-- Footer -->
 <a href="#introduce"><img width="100%" alt="Garland, Streamer" src="https://github.com/user-attachments/assets/60dfd76a-28b8-4647-b3ec-297c7d48653f"></a>
 
-<!-- region Citation -->
+<!-- region Citation
 
 [coding-penguin]: https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif
 [yawning-cats]: https://media.giphy.com/media/SAUC2JGsZvZMl6mq7D/giphy.gif
 [pretty-dog]: https://media.giphy.com/media/6GjpHUATYwoTkN9x9w/giphy.gif
 [flower-corner]: https://media.giphy.com/media/VEtksA8luiuSrzCjgm/giphy.gif
 
-<!-- endregion -->
+[html]: https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif
+[css]: https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif
+[js]: https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif
+[nodejs]: https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif
+[python]: https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif
+[react]: https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif
+[vue]: https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif
+[angular]: https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif
+[svelte]: https://media.giphy.com/media/jt8MTVXyipqoL6vgku/giphy.gif
+[bootstrap]: https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif
+[github]: https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif
+[vscode]: https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif
+[sublime]: https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif
+[browser]: https://media.giphy.com/media/j5zY9FKGwp1YVZ2YFV/giphy.gif
+
+endregion -->
