@@ -113,6 +113,7 @@
       <br />
       <span>&emsp;&nbsp;Something Else That's <b>Ease to Use</b>.</span>
     </summary>
+    <!-- region CLI -->
     <h3>Command Line</h3>
     <a href="https://github.com/kabeep/node-translate-cli">
       <picture>
@@ -165,6 +166,8 @@
         <img alt="Repository Card (kabeep/node-paddle-ocr)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-paddle-ocr&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
       </picture>
     </a>
+    <!-- endregion -->
+    <!-- region Util -->
     <h3>Utility</h3>
     <a href="https://github.com/kabeep/exception">
       <picture>
@@ -172,10 +175,23 @@
         <img alt="Repository Card (kabeep/exception)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=exception&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
       </picture>
     </a>
+    <a href="https://github.com/kabeep/palette">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=palette&title_color=4493f8&icon_color=9198a1&text_color=9198a1&border_color=3d444d&bg_color=0d1117" />
+        <img alt="Repository Card (kabeep/palette)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=palette&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
+      </picture>
+    </a>
+    <br />
     <a href="https://github.com/kabeep/node-translate">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-translate&title_color=4493f8&icon_color=9198a1&text_color=9198a1&border_color=3d444d&bg_color=0d1117" />
         <img alt="Repository Card (kabeep/node-translate)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-translate&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
+      </picture>
+    </a>
+    <a href="https://github.com/kabeep/node-steam-library">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-steam-library&title_color=4493f8&icon_color=9198a1&text_color=9198a1&border_color=3d444d&bg_color=0d1117" />
+        <img alt="Repository Card (kabeep/node-steam-library)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-steam-library&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
       </picture>
     </a>
     <br />
@@ -192,18 +208,14 @@
       </picture>
     </a>
     <br />
-    <a href="https://github.com/kabeep/node-steam-library">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-steam-library&title_color=4493f8&icon_color=9198a1&text_color=9198a1&border_color=3d444d&bg_color=0d1117" />
-        <img alt="Repository Card (kabeep/node-steam-library)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-steam-library&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
-      </picture>
-    </a>
     <a href="https://github.com/kabeep/node-clipboard-image">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-clipboard-image&title_color=4493f8&icon_color=9198a1&text_color=9198a1&border_color=3d444d&bg_color=0d1117" />
         <img alt="Repository Card (kabeep/node-clipboard-image)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-clipboard-image&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
       </picture>
     </a>
+    <!-- endregion -->
+    <!-- region Misc -->
     <h3>Misc</h3>
     <a href="https://github.com/kabeep/git-short-dir-prompt">
       <picture>
@@ -217,6 +229,7 @@
         <img alt="Repository Card (kabeep/process-source-tracer)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=process-source-tracer&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
       </picture>
     </a>
+    <!-- endregion -->
   </details>
 </div>
 <!-- endregion -->
