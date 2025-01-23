@@ -134,23 +134,23 @@
         <img alt="Repository Card (kabeep/forex-cli)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=forex-cli&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
       </picture>
     </a>
+    <a href="https://github.com/kabeep/palette-cli">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=palette-cli&title_color=4493f8&icon_color=9198a1&text_color=9198a1&border_color=3d444d&bg_color=0d1117" />
+        <img alt="Repository Card (kabeep/palette-cli)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=palette-cli&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
+      </picture>
+    </a>
+    <br />
     <a href="https://github.com/kabeep/lunar-birthday-cli">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=lunar-birthday-cli&title_color=4493f8&icon_color=9198a1&text_color=9198a1&border_color=3d444d&bg_color=0d1117" />
         <img alt="Repository Card (kabeep/lunar-birthday-cli)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=lunar-birthday-cli&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
       </picture>
     </a>
-    <br />
     <a href="https://github.com/kabeep/yeareport">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=yeareport&title_color=4493f8&icon_color=9198a1&text_color=9198a1&border_color=3d444d&bg_color=0d1117" />
         <img alt="Repository Card (kabeep/yeareport)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=yeareport&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
-      </picture>
-    </a>
-    <a href="https://github.com/kabeep/neoconfig">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=neoconfig&title_color=4493f8&icon_color=9198a1&text_color=9198a1&border_color=3d444d&bg_color=0d1117" />
-        <img alt="Repository Card (kabeep/neoconfig)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=neoconfig&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
       </picture>
     </a>
     <br />
@@ -160,6 +160,13 @@
         <img alt="Repository Card (gengark/netease-cloud-music-download)" src="https://github-readme-stats.vercel.app/api/pin/?username=gengark&repo=netease-cloud-music-download&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
       </picture>
     </a>
+    <a href="https://github.com/kabeep/neoconfig">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=neoconfig&title_color=4493f8&icon_color=9198a1&text_color=9198a1&border_color=3d444d&bg_color=0d1117" />
+        <img alt="Repository Card (kabeep/neoconfig)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=neoconfig&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
+      </picture>
+    </a>
+    <br />
     <a href="https://github.com/kabeep/node-paddle-ocr">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-paddle-ocr&title_color=4493f8&icon_color=9198a1&text_color=9198a1&border_color=3d444d&bg_color=0d1117" />
