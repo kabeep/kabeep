@@ -51,62 +51,63 @@
 </div>
 <!-- endregion -->
 <!-- region Activity -->
-<div id="activity">
-  <a href="#activity"><img width="30" align="left" alt="Subtitle Bullet" src="https://media.giphy.com/media/LoNHyvkfL8KCg7VQZh/giphy.gif"></a>
-  <details>
-    <summary id="article">
-      <b><em>Activity</em></b>
-      <br />
-      <span>&emsp;&nbsp;Current Work On.</span>
-    </summary>
+<!-- <div id="activity"> -->
+<!--   <a href="#activity"><img width="30" align="left" alt="Subtitle Bullet" src="https://media.giphy.com/media/LoNHyvkfL8KCg7VQZh/giphy.gif"></a> -->
+<!--   <details> -->
+<!--     <summary id="article"> -->
+<!--       <b><em>Activity</em></b> -->
+<!--       <br /> -->
+<!--       <span>&emsp;&nbsp;Current Work On.</span> -->
+<!--     </summary> -->
     <!-- Article A -->
-    <a href="https://github.com/kabeep/node-translate-cli">
-      <img alt="Repository Intro (kabeep/node-translate-cli)" src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=22&duration=1000&pause=1000&color=FFE666&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=472&height=36&lines=Use+translation+without+token+in+the+terminal.">
-      <img alt="Repository Card (kabeep/node-translate-cli)" src="https://svg.bookmark.style/api?url=https://github.com/kabeep/node-translate-cli&mode=light&style=horizontal">
-    </a>
+<!--     <a href="https://github.com/kabeep/node-translate-cli"> -->
+<!--       <img alt="Repository Intro (kabeep/node-translate-cli)" src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=22&duration=1000&pause=1000&color=FFE666&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=472&height=36&lines=Use+translation+without+token+in+the+terminal."> -->
+<!--       <img alt="Repository Card (kabeep/node-translate-cli)" src="https://svg.bookmark.style/api?url=https://github.com/kabeep/node-translate-cli&mode=light&style=horizontal"> -->
+<!--     </a> -->
     <!-- PATH A -->
-    <div align="center">
-      <a href="#activity">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4cc8f0bd-a1a8-4f5f-bf8a-59639591c17e" />
-          <img width="384" alt="Roadmap Path LTR" src="https://github.com/user-attachments/assets/2df51f57-8034-4c3b-adda-090a91c26266" />
-        </picture>
-      </a>
-    </div>
+<!--     <div align="center"> -->
+<!--       <a href="#activity"> -->
+<!--         <picture> -->
+<!--           <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4cc8f0bd-a1a8-4f5f-bf8a-59639591c17e" /> -->
+<!--           <img width="384" alt="Roadmap Path LTR" src="https://github.com/user-attachments/assets/2df51f57-8034-4c3b-adda-090a91c26266" /> -->
+<!--         </picture> -->
+<!--       </a> -->
+<!--     </div> -->
     <!-- Article B -->
-    <a href="https://github.com/kabeep/node-translate-i18n">
-      <img align="right" alt="Repository Intro (kabeep/node-translate-i18n)" src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=24&duration=1000&pause=1000&color=F286A6&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=472&height=36&lines=Translate+localized+file+to+mutil-lang,+fast.">
-      <img align="right" alt="Repository Card (kabeep/node-translate-i18n)" src="https://svg.bookmark.style/api?url=https://github.com/kabeep/node-translate-i18n&mode=light&style=horizontal">
-    </a>
+<!--     <a href="https://github.com/kabeep/node-translate-i18n"> -->
+<!--       <img align="right" alt="Repository Intro (kabeep/node-translate-i18n)" src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=24&duration=1000&pause=1000&color=F286A6&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=472&height=36&lines=Translate+localized+file+to+mutil-lang,+fast."> -->
+<!--       <img align="right" alt="Repository Card (kabeep/node-translate-i18n)" src="https://svg.bookmark.style/api?url=https://github.com/kabeep/node-translate-i18n&mode=light&style=horizontal"> -->
+<!--     </a> -->
     <!-- PATH B -->
-    <div align="center">
-      <a href="#activity">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1a00539a-5f1b-4281-8ae4-01ca85deeb9c" />
-          <img width="384" alt="Roadmap Path RTL" src="https://github.com/user-attachments/assets/cf51eab0-9497-4b9e-b521-f350730030eb" />
-        </picture>
-      </a>
-    </div>
+<!--     <div align="center"> -->
+<!--       <a href="#activity"> -->
+<!--         <picture> -->
+<!--           <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1a00539a-5f1b-4281-8ae4-01ca85deeb9c" /> -->
+<!--           <img width="384" alt="Roadmap Path RTL" src="https://github.com/user-attachments/assets/cf51eab0-9497-4b9e-b521-f350730030eb" /> -->
+<!--         </picture> -->
+<!--       </a> -->
+<!--     </div> -->
     <!-- Article C -->
-    <a href="https://github.com/kabeep/node-paddle-ocr">
-      <img alt="Repository Intro (kabeep/node-paddle-ocr)" src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=24&duration=1000&pause=1000&color=8F7DE8&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=530&height=36&lines=Multilingual+OCR+is+used+offline+in+the+terminal.">
-      <img alt="Repository Card (kabeep/node-paddle-ocr)" src="https://svg.bookmark.style/api?url=https://github.com/kabeep/node-paddle-ocr&mode=light&style=horizontal">
-    </a>
+<!--     <a href="https://github.com/kabeep/node-paddle-ocr"> -->
+<!--       <img alt="Repository Intro (kabeep/node-paddle-ocr)" src="https://readme-typing-svg.demolab.com?font=Cherry+Bomb+One&size=24&duration=1000&pause=1000&color=8F7DE8&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=530&height=36&lines=Multilingual+OCR+is+used+offline+in+the+terminal."> -->
+<!--       <img alt="Repository Card (kabeep/node-paddle-ocr)" src="https://svg.bookmark.style/api?url=https://github.com/kabeep/node-paddle-ocr&mode=light&style=horizontal"> -->
+<!--     </a> -->
     <!-- PATH C -->
-    <div align="center">
-      <a href="#activity">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d84ed7bf-1ecf-4aca-b57d-24d457008cae" />
-          <img width="256" alt="Roadmap Path Future" src="https://github.com/user-attachments/assets/436b305d-05f4-4f83-a0e6-77e320d20e21" />
-        </picture>
-      </a>
-    </div>
-  </details>
-</div>
+<!--     <div align="center"> -->
+<!--       <a href="#activity"> -->
+<!--         <picture> -->
+<!--           <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d84ed7bf-1ecf-4aca-b57d-24d457008cae" /> -->
+<!--           <img width="256" alt="Roadmap Path Future" src="https://github.com/user-attachments/assets/436b305d-05f4-4f83-a0e6-77e320d20e21" /> -->
+<!--         </picture> -->
+<!--       </a> -->
+<!--     </div> -->
+<!--   </details> -->
+<!-- </div> -->
 <!-- endregion -->
 <!-- region Repos -->
 <div id="repos">
-  <a href="#repos"><img width="30" align="left" alt="Subtitle Bullet" src="https://media.giphy.com/media/zSRyPpY6jnexQoFddD/giphy.gif"></a>
+  <a href="#repos"><img width="30" align="left" alt="Subtitle Bullet" src="https://media.giphy.com/media/LoNHyvkfL8KCg7VQZh/giphy.gif"></a>
+<!--   <a href="#repos"><img width="30" align="left" alt="Subtitle Bullet" src="https://media.giphy.com/media/zSRyPpY6jnexQoFddD/giphy.gif"></a> -->
   <details>
     <summary>
       <b><em>Repos</em></b>
