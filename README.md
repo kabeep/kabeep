@@ -12,7 +12,7 @@
 </a>
 </h2>
 <p>
-  <a href="https://github.com/kabeep"><img alt="Profile Views" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkabeep%2Fkabeep&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=VIEWS&edge_flat=false"></a>
+  <a href="https://github.com/kabeep"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=kabeep&abbreviated=true&color=grey&label=VIEWS"></a>
   <a href="https://www.npmjs.com/~marowak"><img alt="NPM Downloads" src="https://img.shields.io/npm-stat/dm/marowak?logo=npm&logoColor=ffffff&label=DOWNLOADS&labelColor=cb0000&color=cb0000"></a>
   <a href="https://github.com/kabeep"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/kabeep?style=flat&logo=apachespark&logoColor=ffffff&label=STARS&labelColor=f0772b&color=f0772b"></a>
 </p>
