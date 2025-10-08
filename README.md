@@ -196,10 +196,10 @@
         <img alt="Repository Card (kabeep/node-translate)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-translate&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
       </picture>
     </a>
-    <a href="https://github.com/kabeep/node-steam-library">
+    <a href="https://github.com/kabeep/forex">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-steam-library&title_color=4493f8&icon_color=9198a1&text_color=9198a1&border_color=3d444d&bg_color=0d1117" />
-        <img alt="Repository Card (kabeep/node-steam-library)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-steam-library&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=forex&title_color=4493f8&icon_color=9198a1&text_color=9198a1&border_color=3d444d&bg_color=0d1117" />
+        <img alt="Repository Card (kabeep/forex)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=forex&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
       </picture>
     </a>
     <br />
@@ -216,6 +216,12 @@
       </picture>
     </a>
     <br />
+    <a href="https://github.com/kabeep/node-steam-library">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-steam-library&title_color=4493f8&icon_color=9198a1&text_color=9198a1&border_color=3d444d&bg_color=0d1117" />
+        <img alt="Repository Card (kabeep/node-steam-library)" src="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-steam-library&title_color=0969da&icon_color=59636e&text_color=59636e&border_color=d1d9e0&bg_color=fff" />
+      </picture>
+    </a>
     <a href="https://github.com/kabeep/node-clipboard-image">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kabeep&repo=node-clipboard-image&title_color=4493f8&icon_color=9198a1&text_color=9198a1&border_color=3d444d&bg_color=0d1117" />
