@@ -1,5 +1,5 @@
 <!-- Header -->
-<a href="#"><img width="100%" alt="Garland, Streamer" src="https://github.com/user-attachments/assets/7e2dc14a-11c4-460a-b2c8-c01457c5e48a"></a>
+<!-- <a href="#"><img width="100%" alt="Garland, Streamer" src="https://github.com/user-attachments/assets/7e2dc14a-11c4-460a-b2c8-c01457c5e48a"></a> -->
 <!-- region Introduce -->
 <a href="#greeting"><img width="256" align="right" alt="Illustrative Portrait" src="https://media.giphy.com/media/RLJlww7swF5i1dD0gm/giphy.gif"></a>
 <h2 id="greeting">
@@ -248,7 +248,7 @@
 </div>
 <!-- endregion -->
 <!-- Footer -->
-<a href="#introduce"><img width="100%" alt="Garland, Streamer" src="https://github.com/user-attachments/assets/60dfd76a-28b8-4647-b3ec-297c7d48653f"></a>
+<!-- <a href="#introduce"><img width="100%" alt="Garland, Streamer" src="https://github.com/user-attachments/assets/60dfd76a-28b8-4647-b3ec-297c7d48653f"></a> -->
 
 <!-- region Citation
 
